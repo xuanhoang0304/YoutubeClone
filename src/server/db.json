@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "title": "Thể thao",
+      "url": "",
+      "createdAt": "2024-06-10T09:00:00Z"
+    },
+    {
+      "id": "2",
+      "title": "Thể thao",
+      "url": "the-thao",
+      "createdAt": "2024-06-10T09:00:00Z"
+    }
+  ]
+}
